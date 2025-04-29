@@ -18,4 +18,5 @@ background-color: lightblue;
 button{
     padding:10px 15px;
     cursor:pointer;
+    border-radius:8px;
 }
